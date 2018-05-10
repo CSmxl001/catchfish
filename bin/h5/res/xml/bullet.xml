@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<bullet type="1" powerRadius="10" boomRadius="20" speed="15" power="1"></bullet>
+	<bullet type="2" powerRadius="10" boomRadius="75" speed="15" power="2"></bullet>
+	<bullet type="3" powerRadius="10" boomRadius="75" speed="15" power="3"></bullet>
+	<bullet type="4" powerRadius="10" boomRadius="75" speed="15" power="4"></bullet>
+	<bullet type="5" powerRadius="10" boomRadius="75" speed="15" power="5"></bullet>
+	<bullet type="6" powerRadius="10" boomRadius="75" speed="15" power="6"></bullet>
+	<bullet type="7" powerRadius="10" boomRadius="75" speed="15" power="7"></bullet>
+</data>

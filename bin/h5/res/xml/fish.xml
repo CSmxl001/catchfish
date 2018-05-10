@@ -1,0 +1,147 @@
+﻿<body>
+	<version>1.0</version>
+	<fish id="0">
+		<name>小丑鱼</name>
+		<id>0</id>
+		<liveUrl>fish\fishimg\fish12\live.json</liveUrl>
+		<deadUrl>fish\fishimg\fish12\dead.json</deadUrl>
+		<grade>1</grade>
+		<blood_min>2</blood_min>
+		<blood_Max>2</blood_Max>
+		<score>1</score>
+		<speed>6</speed>
+		<hitValue>1</hitValue>
+	</fish>
+	<fish id="1">
+		<name>蜻蜓鱼</name>
+		<id>1</id>
+		<liveUrl>fish\fishimg\fish8\live.json</liveUrl>
+		<deadUrl>fish\fishimg\fish8\dead.json</deadUrl>
+		<grade>1</grade>
+		<blood_min>4</blood_min>
+		<blood_Max>4</blood_Max>
+		<score>2</score>
+		<speed>6</speed>
+		<hitValue>1</hitValue>
+	</fish>
+	<fish id="2">
+		<name>黄鱼</name>
+		<id>2</id>
+		<liveUrl>fish\fishimg\fish5\live.json</liveUrl>
+		<deadUrl>fish\fishimg\fish5\dead.json</deadUrl>
+		<grade>1</grade>
+		<blood_min>20</blood_min>
+		<blood_Max>80</blood_Max>
+		<score>3</score>
+		<speed>5</speed>
+		<hitValue>1</hitValue>
+	</fish>
+	<fish id="3">
+		<name>热带鱼</name>
+		<id>3</id>
+		<liveUrl>fish\fishimg\fish9\live.json</liveUrl>
+		<deadUrl>fish\fishimg\fish9\dead.json</deadUrl>
+		<grade>1</grade>
+		<blood_min>4</blood_min>
+		<blood_Max>12</blood_Max>
+		<score>4</score>
+		<speed>5</speed>
+		<hitValue>1</hitValue>
+	</fish>
+	<fish id="4">
+		<name>金枪鱼</name>
+		<id>4</id>
+		<liveUrl>fish\fishimg\fish7\live.json</liveUrl>
+		<deadUrl>fish\fishimg\fish7\dead.json</deadUrl>
+		<grade>1</grade>
+		<blood_min>20</blood_min>
+		<blood_Max>40</blood_Max>
+		<score>4</score>
+		<speed>3</speed>
+		<hitValue>10</hitValue>
+	</fish>
+	<fish id="5">
+		<name>水母</name>
+		<id>5</id>
+		<liveUrl>fish\fishimg\fish10\live.json</liveUrl>
+		<deadUrl>fish\fishimg\fish10\dead.json</deadUrl>
+		<grade>2</grade>
+		<blood_min>50</blood_min>
+		<blood_Max>100</blood_Max>
+		<score>4</score>
+		<speed>2</speed>
+		<hitValue>10</hitValue>
+	</fish>
+	<fish id="6">
+		<name>鳄鱼</name>
+		<id>6</id>
+		<liveUrl>fish\fishimg\fish2\live.json</liveUrl>
+		<deadUrl>fish\fishimg\fish2\dead.json</deadUrl>
+		<grade>3</grade>
+		<blood_min>200</blood_min>
+		<blood_Max>300</blood_Max>
+		<score>5</score>
+		<speed>1.5</speed>
+		<hitValue>20</hitValue>
+	</fish>
+	<fish id="7">
+		<name>大乌龟</name>
+		<id>7</id>
+		<liveUrl>fish\fishimg\fish11\live.json</liveUrl>
+		<deadUrl>fish\fishimg\fish11\dead.json</deadUrl>
+		<grade>3</grade>
+		<blood_min>300</blood_min>
+		<blood_Max>400</blood_Max>
+		<score>5</score>
+		<speed>1.5</speed>
+		<hitValue>20</hitValue>
+	</fish>
+	<fish id="8">
+		<name>海豚</name>
+		<id>8</id>
+		<liveUrl>fish\fishimg\fish4\live.json</liveUrl>
+		<deadUrl>fish\fishimg\fish4\dead.json</deadUrl>
+		<grade>5</grade>
+		<blood_min>450</blood_min>
+		<blood_Max>600</blood_Max>
+		<score>4</score>
+		<speed>1</speed>
+		<hitValue>20</hitValue>
+	</fish>
+	<fish id="9">
+		<name>鲸鱼</name>
+		<id>9</id>
+		<liveUrl>fish\fishimg\fish6\live.json</liveUrl>
+		<deadUrl>fish\fishimg\fish6\dead.json</deadUrl>
+		<grade>4</grade>
+		<blood_min>400</blood_min>
+		<blood_Max>550</blood_Max>
+		<score>200</score>
+		<speed>0.5</speed>
+		<hitValue>50</hitValue>
+	</fish>
+	<fish id="10">
+		<name>海胆鱼</name>
+		<id>10</id>
+		<liveUrl>fish\fishimg\fish3\live.json</liveUrl>
+		<deadUrl>fish\fishimg\fish3\dead.json</deadUrl>
+		<grade>4</grade>
+		<blood_min>90</blood_min>
+		<blood_Max>230</blood_Max>
+		<score>20</score>
+		<speed>1</speed>
+		<hitValue>5</hitValue>
+	</fish>
+	<fish id="11">
+		<name>灯笼鱼</name>
+		<id>11</id>
+		<liveUrl>fish\fishimg\fish1\live.json</liveUrl>
+		<deadUrl>fish\fishimg\fish1\dead.json</deadUrl>
+		<grade>4</grade>
+		<blood_min>100</blood_min>
+		<blood_Max>200</blood_Max>
+		<score>5</score>
+		<speed>1</speed>
+		<hitValue>5</hitValue>
+	</fish>
+</body>
